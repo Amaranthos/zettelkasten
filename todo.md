@@ -1,4 +1,4 @@
 # Todo
 
-- [ ] Start using foam
+- [x] Start using foam
 - [ ] Consolidate learning / reading here
