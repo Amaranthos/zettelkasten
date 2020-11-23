@@ -4,6 +4,7 @@
 
 ## Resources
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [Grids Part 1: To grid or not to grid](https://sarahmhigley.com/writing/grids-part1/)
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
