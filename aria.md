@@ -76,9 +76,7 @@
 - [W3C’s ARIA Drag-and-Drop Attributes](https://www.w3.org/WAI/PF/aria-1.1/states_and_properties#attrs_dragdrop)
 - [W3C’s ARIA Live Region Attributes](https://www.w3.org/WAI/PF/aria-1.1/states_and_properties#attrs_liveregions)
 - [W3C’s ARIA Relationship Attributes](https://www.w3.org/WAI/PF/aria-1.1/states_and_properties#attrs_relationships)
-- [W3C’s ARIA Widget Attributes](https:/ b/www.w3.org/WAI/PF/aria-1.1/states_and_properties#attrs_widgets)
+- [W3C’s ARIA Widget Attributes](https://www.w3.org/WAI/PF/aria-1.1/states_and_properties#attrs_widgets)
 - [Rules of of ARIA Use](https://www.w3.org/TR/using-aria/#NOTES)
 
 [1]: https://en.wikipedia.org/wiki/WAI-ARIA
-
-
