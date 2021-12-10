@@ -1,3 +1,9 @@
+---
+created: ${CURRENT_YEAR}${CURRENT_MONTH}${CURRENT_DATE}
+updated: ${CURRENT_YEAR}${CURRENT_MONTH}${CURRENT_DATE}
+tags:
+---
+
 # ${TM_FILENAME_BASE}
 
 > ${1: Quote from https://en.wikipedia.org/wiki/${TM_FILENAME_BASE}}
@@ -5,6 +11,6 @@
 
 ## Resources
 
-- [ ] [$2: Name]
+- [ ] [$3: Name]
 
-[1]: https://en.wikipedia.org/wiki/${TM_FILENAME_BASE}
+[1]: https://en.wikipedia.org/wiki/${2:${TM_FILENAME_BASE}}

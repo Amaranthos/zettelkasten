@@ -25,5 +25,7 @@
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext"]
 }
