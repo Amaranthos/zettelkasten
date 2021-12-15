@@ -1,3 +1,9 @@
+---
+created: 20211201
+updated: 20211215
+tags:
+---
+
 # useLazyRef
 
 ## Examples
@@ -23,3 +29,4 @@ function useLazyRef(init) {
 ## Resources
 
 - [ ] [Make useRef lazy — 4 ways](https://thoughtspile.github.io/2021/11/30/lazy-useref/)
+

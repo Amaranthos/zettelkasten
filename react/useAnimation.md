@@ -1,3 +1,9 @@
+---
+created: 20201217
+updated: 20211215
+tags:
+---
+
 # useAnimation
 
 ## Examples
@@ -26,3 +32,4 @@ const useAnimation = (callback) => {
 ## Resources
 
 - [ ] [requestAnimationFrame and useEffect vs useLayoutEffect](https://blog.jakuba.net/request-animation-frame-and-use-effect-vs-use-layout-effect/)
+

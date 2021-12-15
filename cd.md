@@ -1,3 +1,9 @@
+---
+created: 20201123
+updated: 20211215
+tags:
+---
+
 # cd
 
 > Change Directory - change the current working Folder. [cd man page][1]
@@ -12,3 +18,4 @@
 | `cd -`  | Change to previous directory |
 
 [1]: https://ss64.com/osx/cd.html
+

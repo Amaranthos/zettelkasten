@@ -1,3 +1,9 @@
+---
+created: 20201123
+updated: 20211215
+tags:
+---
+
 # Compound Components
 
 > Compound components is a pattern where components are used together such that they share an implicit state that lets them communicate with each other in the background. A compound component is composed of a subset of child components that all work in tandem to produce some functionality. [React Component Patterns][1]
@@ -6,3 +12,4 @@
 
 [1]: https://dev.to/alexi_be3/react-component-patterns-49ho
 [2]: https://kentcdodds.com/blog/advanced-react-component-patterns
+

@@ -1,3 +1,9 @@
+---
+created: 20201123
+updated: 20211215
+tags:
+---
+
 # Provider Pattern
 
 > The provider pattern is an elegant solution to share data across the [[react-js]] component tree.

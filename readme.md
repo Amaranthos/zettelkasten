@@ -1,3 +1,9 @@
+---
+created: 20200630
+updated: 20211215
+tags:
+---
+
 # Foam
 
 [Home](https://amaranthos.github.io/foam/)

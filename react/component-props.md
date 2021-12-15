@@ -1,3 +1,9 @@
+---
+created: 20210326
+updated: 20211215
+tags:
+---
+
 # ComponentProps<T>
 
 Used to automatically infer props type of a [[react-js]] component especially for use with [[hoc]]s, etc.

@@ -1,3 +1,9 @@
+---
+created: 20210326
+updated: 20211215
+tags:
+---
+
 # HOC
 
 Higher Order Component

@@ -1,3 +1,9 @@
+---
+created: 20200828
+updated: 20211215
+tags:
+---
+
 # CSS Grid
 
 > [[css]] Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from [[html]] primitives. [MDN web docs][1]

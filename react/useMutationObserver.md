@@ -1,3 +1,9 @@
+---
+created: 20211201
+updated: 20211215
+tags:
+---
+
 # useMutationObserver
 
 ## Examples
@@ -30,3 +36,4 @@ function useMutationObservable(
 ## Resources
 
 - [ ] [Guide to custom React Hooks with MutationObserver](https://blog.logrocket.com/guide-to-custom-react-hooks-with-mutationobserver/)
+
