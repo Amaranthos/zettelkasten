@@ -4,5 +4,4 @@ updated: 20211215
 tags:
 ---
 
-# Json
-
+# JSON (JavaScript Object Notation)

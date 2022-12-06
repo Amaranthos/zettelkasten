@@ -6,3 +6,4 @@ tags:
 
 # Encryption
 
+Process of converting ordinary information into an unintelligible form.
